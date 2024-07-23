@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "background music",
+  "identifier": "playback_controller_model:16502-4114cb87-e277-4ec5-88ac-f7f5aba0480f",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:14032-4114cb87-e277-4ec5-88ac-f7f5aba0480f"
+}
