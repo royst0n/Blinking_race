@@ -1,7 +1,7 @@
 {
   "modelName": "texture",
   "name": "Bg",
-  "identifier": "texture:1254-4114cb87-e277-4ec5-88ac-f7f5aba0480f",
+  "identifier": "texture:23028-725a0571-4c9a-4ce3-b193-c359bc15a860",
   "alphaPremultiplicationMode": "should_premultiply",
   "assetDataHash": "1781a6116a00b6e5f1ed50bd5607f788",
   "assetLocator": "textures/Bg.png",
@@ -10,11 +10,6 @@
   "coordMapping": "none",
   "excludeDuringExport": false,
   "excludeFromPackage": false,
-  "exportConfigurations": [
-    "textureExportConfig:7847-4114cb87-e277-4ec5-88ac-f7f5aba0480f",
-    "textureExportConfig:8067-4114cb87-e277-4ec5-88ac-f7f5aba0480f",
-    "textureExportConfig:8289-4114cb87-e277-4ec5-88ac-f7f5aba0480f"
-  ],
   "filter": "bilinear",
   "hasOfflineMipmaps": false,
   "height": 695,
